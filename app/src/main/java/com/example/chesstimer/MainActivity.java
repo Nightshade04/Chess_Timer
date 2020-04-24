@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     CountDownTimer cdTimer;
     EditText timer;
     ToneGenerator toneG;
+    // this is done by shruti
 
     int c = 0;
 
